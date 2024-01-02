@@ -1,4 +1,7 @@
 {
   "name": "cardShopping",
-  "displayName": "cardShopping"
+  "displayName": "cardShopping",
+  "fonts": {
+    "FontAwesome5": "./assets/fonts/fa5.ttf"
+  }
 }
